@@ -1,0 +1,56 @@
+1 - logo ok
+
+2 - disco de cores ok
+
+3 - layout blog site ok 
+
+4 - conteudo / artigos
+
+blog hypertrofia
+
+
+
+artigo 2 pesquisar no site hipertrofia
+
+artigo 3 o que é bf na musculação, pesquisar site https://www.cliquefarma.com.br/blog/bf-body-fat/
+
+
+
+.fixo {
+    z-index: 199;
+    position: fixed;
+    top: 100px;
+    right: 100px;
+ }
+
+fixo blog-page
+
+
+   <div class="col-lg-4 blog-espace blog-publicidade">
+                   <h5 class="text-center">Melhores canais maromba motivacionais</h5>
+                   
+                   <ul>
+                           <li><iframe width="200" height="100" src="https://www.youtube.com/embed/oQ7vgkRFJ50" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+                           <li><p>ELES ESTÃO DE NAVE NO RIO DE JANEIRO *Cyro busca super carro para mansão growth*</p></li>
+                           
+                   </ul>
+               
+                
+                </div>
+
+
+
+           <script type="text/javascript">
+                jQuery(window).scroll(function () {
+                 if (jQuery(this).scrollTop() > 443) {
+                     jQuery(".blog-page").addClass("fixo");
+                 } else {
+                     jQuery(".blog-page").removeClass("fixo");
+                 }
+                });
+                </script>
+
+
+
+<div style="background-image:url('img/spotify.jpg'); background-size: cover; width: auto; height: 300px; border-radius: 3px;">
+          

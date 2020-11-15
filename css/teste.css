@@ -1,0 +1,6 @@
+/* CSS used here will be applied after bootstrap.css */
+#empresa-menu{top:65px;}
+.affix-bottom{position: absolute;}
+
+#main-footer{height:400px;}
+.copyright{text-align:center;color:#FFF;}
